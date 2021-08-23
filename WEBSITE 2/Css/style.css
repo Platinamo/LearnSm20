@@ -1,0 +1,47 @@
+*{
+	margin: 0;
+	padding: 0;
+	text-align: center;
+}
+
+body{
+	position: relative;
+	font-family: 'Klee One', cursive;
+}
+.top-container{
+	background-color: 93B5C6;
+}
+.h1{
+
+}
+.top-cloud{
+	position: relative;
+	left: 20%;
+	height: 20%;
+	width: 20%;
+}
+.bottom-cloud{
+	width: 20%;
+	position: absolute;
+
+}
+.mountain{
+	position: relative;
+	margin-top:100px;
+	
+}
+.profile-img{
+	}
+.skill-row{
+	text-align: center;
+
+}
+.skill-row-img{
+	width: 15%;
+	margin: 100px auto;
+	
+}
+.skill-row-img2{
+	width: 15%;
+	margin: 100px auto;
+}
